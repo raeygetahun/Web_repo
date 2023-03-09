@@ -1,5 +1,13 @@
 const data = [
     {
+        text: "Software Engineering Virtual Experience",
+        startdate: '04.03.2023',
+        category:{
+            tag:'JPMorgan Chase & Co.',
+            color:'#018f69'
+        },
+    },
+    {
         text: "Teaching Assitant for Algorithms and Data Structures",
         startdate: '01.02.2023',
         category:{
